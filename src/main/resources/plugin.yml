@@ -1,0 +1,4 @@
+name: FirNettyInjector
+version: '1.0.0'
+main: top.catnies.firnettyinjector.FirNettyInjector
+api-version: '1.21'
